@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+    # Permalinks
+permalink:        pretty
+
+    # Setup
+title:            Alex Mülli
+tagline:          'Personal Blog'
+description:      'Master Student in Computer Science'
+url:              http://amuelli.github.io
+baseurl:          /
+timezone:         Europe/Zurich
+
+author:
+    name:           'Alex Mülli'
+    email:          amuelli@gmail.com
+    twitter:        https://twitter.com/AlexMulli/
+    github:         https://github.com/amuelli/
+    linkedin:       http://ch.linkedin.com/pub/alexander-m%c3%bclli/35/b64/895/
+
+paginate:         5
