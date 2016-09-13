@@ -8,7 +8,7 @@ permalink:        pretty
     # Setup
 title:            Alex Mülli
 tagline:          'Personal Blog'
-description:      'Master Student in Computer Science'
+description:      'MSc in Computer Science'
 url:              http://amuelli.github.io
 baseurl:          /
 timezone:         Europe/Zurich
